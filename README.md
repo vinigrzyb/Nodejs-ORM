@@ -1,2 +1,2 @@
 # Nodejs-ORM
-API com Sequelize e SQLite
+API com Express, Sequelize e SQLite
